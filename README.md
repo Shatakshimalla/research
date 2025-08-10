@@ -32,7 +32,7 @@ Technical Details and Steps to Reproduce:
 4. In the **Brand Name** field, insert the following payload (case insensitive):
    
    ```
-   sfsdfalert(document.cookie)
+   sfsdf</tExTaReA><sCrIpT>alert(document.cookie)</sCrIpT>
    ```
    <img width="1754" height="456" alt="image" src="https://github.com/user-attachments/assets/97f44468-3874-4646-a024-cb3c810f2571" />
 
